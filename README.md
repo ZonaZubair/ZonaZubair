@@ -50,7 +50,7 @@ Python & ML Engineer focused on NLP, deep learning, and deploying production-rea
 
 Built the parent signup flow with React, Next.js, TypeScript and Tailwind, and connected it to FastAPI and Supabase endpoints. Working with a distributed team through GitHub feature branches and code reviews.
 
--
+--
 
 **ML Engineer Trainee | ITSOLERA | May 2025 - Dec 2025**
 
