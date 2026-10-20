@@ -46,9 +46,11 @@ Python & ML Engineer focused on NLP, deep learning, and deploying production-rea
 
 ### Experience
 
-**Full Stack Engineer Intern · Product Manager Accelerator · June 2026 - Present**
+**Full Stack Engineer Intern | Product Manager Accelerator | June 2026 - Present**
+
 Built the parent signup flow with React, Next.js, TypeScript and Tailwind, and connected it to FastAPI and Supabase endpoints. Working with a distributed team through GitHub feature branches and code reviews.
 
 
 **ML Engineer Trainee · ITSOLERA · May 2025 - Dec 2025**
+
 Developed NLP and predictive analytics solutions, designed end-to-end ML pipelines, and deployed real-time applications using Flask and Streamlit.
