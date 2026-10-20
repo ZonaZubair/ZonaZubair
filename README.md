@@ -3,7 +3,7 @@
 # Zona Zubair
 ### Python & ML Engineer
 
-*Building intelligent systems that solve real problems*
+*NLP, predictive analytics, and the small apps that serve them*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zonazubair19@gmail.com)
@@ -15,7 +15,7 @@
 
 ### About Me
 
-Python & ML Engineer focused on NLP, deep learning, and deploying production-ready AI applications. I build end-to-end pipelines from data preprocessing to interactive web deployment using Streamlit, Flask, and FastAPI.
+Python and ML engineer working mostly on NLP and predictive analytics. I build classification and sentiment models and ship them as small apps with Streamlit, Flask and FastAPI. I also do some full stack work with React, Next.js and Supabase.
 
 ---
 
