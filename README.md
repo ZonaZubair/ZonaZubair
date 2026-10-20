@@ -29,10 +29,8 @@ Python & ML Engineer focused on NLP, deep learning, and deploying production-rea
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -48,5 +46,7 @@ Python & ML Engineer focused on NLP, deep learning, and deploying production-rea
 
 ### Experience
 
+**Full Stack Engineer Intern · Product Manager Accelerator · June 2026 - Present**
+Built the parent signup flow with React, Next.js, TypeScript and Tailwind, and connected it to FastAPI and Supabase endpoints. Working with a distributed team through GitHub feature branches and code reviews.
 **ML Engineer Trainee · ITSOLERA · May 2025 - Dec 2025**
 Developed NLP and predictive analytics solutions, designed end-to-end ML pipelines, and deployed real-time applications using Flask and Streamlit.
