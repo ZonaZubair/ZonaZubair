@@ -20,7 +20,7 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **Languages**
 
