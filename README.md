@@ -4,9 +4,6 @@
 
 *NLP, predictive analytics, and the small apps that serve them*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zona-zubair-9b41b5321/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zonazubair19@gmail.com)
-
 ---
 
 ### About Me
@@ -26,7 +23,8 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 ### Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+*![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)*
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **ML & NLP**
