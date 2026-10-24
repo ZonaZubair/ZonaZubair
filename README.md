@@ -56,7 +56,18 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 
 ---
 
-Open to ML, data and full stack roles. Email or LinkedIn is the best way to reach me.
+### Projects
 
+| Project | What it does | Links |
+|---|---|---|
+| Dyslexia Prediction System | Web game that screens for dyslexia from handwritten character images. I built the CNN. | [Repo](https://github.com/ZonaZubair/FYP-Dyslexia-Prediction-App) · [Demo](YOUR_DEMO_LINK) |
+| Brand Sentiment Monitor | Reddit sentiment dashboard with charts and word clouds. | [Repo](https://github.com/ZonaZubair/Brand-Sentiment-Monitor) · [Demo](YOUR_DEMO_LINK) |
+| Universal File Converter | Converts between PDF, Word, TXT and images with OCR. | [Repo](https://github.com/ZonaZubair/Universal-File-Converter) · [Demo](YOUR_DEMO_LINK) |
+| Weather Analysis | Anomaly detection and forecasting on global weather data. | [Repo](https://github.com/ZonaZubair/weather-analysis-ds) |
 
-**Explore my projects below.**
+### Achievements
+
+- Internship certificate, Product Manager Accelerator (2026)
+- HCCDA Tech Essentials, Huawei Cloud (2025)
+- Built the parent signup flow on a team product at Product Manager Accelerator
+
