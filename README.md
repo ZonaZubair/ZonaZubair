@@ -58,7 +58,7 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 
 ### Projects
 
-| Project | What it does | Links |
+| Project | What it does |
 |---|---|---|
 | [Brand Sentiment Monitor](https://github.com/ZonaZubair/Brand-Sentiment-Monitor) | Reddit sentiment dashboard with charts and word clouds. | 
 | [Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter) | Converts between PDF, Word, TXT and images with OCR. | 
