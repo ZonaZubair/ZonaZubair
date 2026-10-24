@@ -34,6 +34,7 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2733BE?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Backend & Deployment**
 
