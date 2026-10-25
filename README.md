@@ -64,6 +64,7 @@ Python and ML engineer working mostly on NLP and predictive analytics. I build c
 | [Brand Sentiment Monitor](https://github.com/ZonaZubair/Brand-Sentiment-Monitor) | Reddit sentiment dashboard with charts and word clouds. | 
 | [Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter) | Converts between PDF, Word, TXT and images with OCR. | 
 | [Weather Analysis](https://github.com/ZonaZubair/weather-analysis-ds) | Anomaly detection and forecasting on global weather data. |
+| [RAG-assistant-beginner-](https://jvcespecwspngmbs2zc47u.streamlit.app/) | A Python RAG assistant for answering questions from custom documents. |
 
 ### Achievements
 
